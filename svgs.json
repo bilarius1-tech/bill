@@ -1,23 +1,91 @@
 {
   "plahs": [
-    "1.svg",
-    "2.svg",
-    "3.svg",
-    "4.svg",
-    "5.svg",
-    "6.svg",
-    "7.svg",
-    "8.svg",
-    "9.svg"
+    {
+      "name": "Plah 1",
+      "path": "plahs",
+      "file": "1.svg"
+    },
+    {
+      "name": "Plah 2",
+      "path": "plahs",
+      "file": "2.svg"
+    },
+    {
+      "name": "Plah 3",
+      "path": "plahs",
+      "file": "3.svg"
+    },
+    {
+      "name": "Plah 4",
+      "path": "plahs",
+      "file": "4.svg"
+    },
+    {
+      "name": "Plah 5",
+      "path": "plahs",
+      "file": "5.svg"
+    },
+    {
+      "name": "Plah 6",
+      "path": "plahs",
+      "file": "6.svg"
+    },
+    {
+      "name": "Plah 7",
+      "path": "plahs",
+      "file": "7.svg"
+    },
+    {
+      "name": "Plah 8",
+      "path": "plahs",
+      "file": "8.svg"
+    },
+    {
+      "name": "Plah 9",
+      "path": "plahs",
+      "file": "9.svg"
+    }
   ],
   "icos": [
-    "1.svg",
-    "2.svg",
-    "3.svg",
-    "4.svg",
-    "5.svg",
-    "6.svg",
-    "7.svg",
-    "8.svg"
+    {
+      "name": "Icon 1",
+      "path": "icos",
+      "file": "1.svg"
+    },
+    {
+      "name": "Icon 2",
+      "path": "icos",
+      "file": "2.svg"
+    },
+    {
+      "name": "Icon 3",
+      "path": "icos",
+      "file": "3.svg"
+    },
+    {
+      "name": "Icon 4",
+      "path": "icos",
+      "file": "4.svg"
+    },
+    {
+      "name": "Icon 5",
+      "path": "icos",
+      "file": "5.svg"
+    },
+    {
+      "name": "Icon 6",
+      "path": "icos",
+      "file": "6.svg"
+    },
+    {
+      "name": "Icon 7",
+      "path": "icos",
+      "file": "7.svg"
+    },
+    {
+      "name": "Icon 8",
+      "path": "icos",
+      "file": "8.svg"
+    }
   ]
 }
